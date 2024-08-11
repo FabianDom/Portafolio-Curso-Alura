@@ -1,4 +1,4 @@
-# Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
+# Portfolio ¡Hola, bienvenido al proyecto de portafolio curso Alura!
 
 ![imagen](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
 
@@ -12,4 +12,4 @@
 
 ## Hecho por:
 
-###Fabian Dominguez
+Fabian Dominguez
